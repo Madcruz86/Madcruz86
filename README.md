@@ -1,7 +1,7 @@
 ## Olá! Eu sou Michel Cruz
 
-- 🔭 Hoje estou trabalhando com Análise de Dados
-- 🌱 Estudando Análise de Dados
+- 🔭 Hoje estou trabalhando como Engenheiro de Dados Jr.
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas - UNIFACS - 2023
 - 📫 Contacte-me no email: micheldcruz@gmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fato engraçado sobre mim: Sou baiano e alérgico a azeite de dendê!
