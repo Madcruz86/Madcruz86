@@ -1,7 +1,8 @@
 ## Olá! Eu sou Michel Cruz
 
-- 🔭 Hoje estou trabalhando como Engenheiro de Dados Jr.
+- 🔭 Hoje estou trabalhando como Engenheiro de Dados Treineer na empresa Compass UOL
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas - UNIFACS - 2023
+- 📖 Pós-graduado em Engenharia e arquitetura de dados - XP Educação - 2025
 - 📫 Contacte-me no email: micheldcruz@gmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fato engraçado sobre mim: Sou baiano e alérgico a azeite de dendê!
@@ -29,4 +30,3 @@
   <a href="https://www.linkedin.com/in/michel-cruz-6150b7129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Madcruz86/Madcruz86/blob/output/github-contribution-grid-snake.svg)
