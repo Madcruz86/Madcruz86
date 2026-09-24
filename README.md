@@ -1,6 +1,6 @@
 ## Olá! Eu sou Michel Cruz
 
-- 🔭 Hoje estou trabalhando como Engenheiro de Dados Treineer na empresa Compass UOL
+- 🔭 Hoje estou aberto a novas oportunidades como Engenheiro de dados.
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas - UNIFACS - 2023
 - 📖 Pós-graduado em Engenharia e arquitetura de dados - XP Educação - 2025
 - 📫 Contacte-me no email: micheldcruz@gmail.com
